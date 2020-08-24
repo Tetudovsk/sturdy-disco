@@ -9,6 +9,8 @@ namespace teste_git
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("adicionei um negocin");
+
+            Console.WriteLine("adicionei outro negocin");
         }
     }
 }
